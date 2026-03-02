@@ -1,7 +1,7 @@
 
 # import time 
 
-#-------------------------Banking Management System----------------------
+#-------------------------Banking Management System Project----------------------
 
 admin_account={
     2001:{'name':'Alban',
